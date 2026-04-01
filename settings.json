@@ -1,0 +1,14 @@
+{
+  "attribution": {
+    "commit": "Signed-off-by: Faradawn Yang <73060648+faradawn@users.noreply.github.com>",
+    "pr": ""
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(gh *)",
+      "Bash(curl *)"
+    ]
+  }
+}
