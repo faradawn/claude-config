@@ -32,4 +32,11 @@ git pull origin main
 
 # Then create a new branch
 git checkout -b <branch-name>
+
+# commit - always sign off
+git config --global user.name "Faradawn Yang" 
+
+git config --global user.email 73060648+faradawn@users.noreply.github.com 
+
+git config --global commit.signoff true 
 ```
