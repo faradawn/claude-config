@@ -6,7 +6,9 @@ Always prefer virtual environments over system-wide pip installs.
 
 ## Git Workflow
 
-Always pull latest changes and create a new feature branch before starting work. Never develop directly on `main`.
+Always pull latest changes and create a new feature branch before starting work. Never develop directly on `main`. The exception is editing claude code global config. Claude.md file in the machine. This is personal repo. The stake is low. So you can directly work on the main branch. 
+
+When I say created a PR, don't create a PR to my own fork (faradawn's fork). Always push to the official upstream main (if there is one). 
 
 ### Commit Sign-off
 
