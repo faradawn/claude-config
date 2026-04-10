@@ -26,3 +26,6 @@ PR descriptions should be a single short paragraph — plain prose, no bullet po
 
 Good example: "Replace the legacy TRT engine backend workflow with the modern LLM API / PyTorch backend."
 Bad example: A multi-section PR with a "## Summary" bullet list and a "## Test plan" checklist.
+
+## MISC
+I often dictate. There might be imprecise pronunciations such as clawd, cloud, which might refer to claude code.
