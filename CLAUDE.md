@@ -17,21 +17,3 @@ git config --global user.name "Faradawn Yang"
 git config --global user.email "73060648+faradawn@users.noreply.github.com"
 git config --global commit.signoff true
 ```
-
-### Commit Sign-off
-
-Every commit must be signed off using the GitHub no-reply email — never the personal email:
-
-```
-Signed-off-by: Faradawn Yang <73060648+faradawn@users.noreply.github.com>
-```
-
-Ensure git is configured correctly before committing:
-
-```bash
-git config --global user.name "Faradawn Yang"
-git config --global user.email "73060648+faradawn@users.noreply.github.com"
-git config --global commit.signoff true
-```
-
-With `commit.signoff true` set, every `git commit` will automatically append the correct sign-off line.
