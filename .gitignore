@@ -17,3 +17,4 @@ stats-cache.json
 telemetry/
 todos/
 settings.local.json
+config.json
