@@ -28,4 +28,6 @@ Good example: "Replace the legacy TRT engine backend workflow with the modern LL
 Bad example: A multi-section PR with a "## Summary" bullet list and a "## Test plan" checklist.
 
 ## MISC
-I often dictate. There might be imprecise pronunciations such as clawd, cloud, which might refer to claude code.
+- I often dictate. There might be imprecise pronunciations such as clawd, cloud, which might refer to claude code.
+- Don't commit or push API keys, password, etc. to upstream repo online repo.
+
