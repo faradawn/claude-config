@@ -17,3 +17,10 @@ git config --global user.name "Faradawn Yang"
 git config --global user.email "73060648+faradawn@users.noreply.github.com"
 git config --global commit.signoff true
 ```
+
+### Pull Request Style
+
+PR descriptions should be a single short paragraph — plain prose, no bullet points, no headers. Write in a direct, human tone that states what changed and why in one breath. No test plan section.
+
+Good example: "Replace the legacy TRT engine backend workflow with the modern LLM API / PyTorch backend."
+Bad example: A multi-section PR with a "## Summary" bullet list and a "## Test plan" checklist.
